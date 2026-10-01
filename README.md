@@ -1,4 +1,4 @@
-# VAB Organizer Configs for Modular Segmented SRBs
+# Maraketty's VAB Organizer Configs
 
 VAB Organizer configs for several mods that do not have native support nor pre-existing configurations on [CKAN](https://github.com/KSP-CKAN/CKAN).
 
