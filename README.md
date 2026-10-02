@@ -10,4 +10,6 @@ VAB Organizer configs for several mods that do not have native support nor pre-e
 - [Patch Manager](https://github.com/linuxgurugamer/PatchManager)
 
 ## Supported Mods:
+- [Comfortable Landing](https://github.com/linuxgurugamer/Comfortable-Landing)
 - [Modular Segmented SRBs](https://github.com/linuxgurugamer/ModularSegmentedSRBs)
+- [Periapsis Motors](https://forum.kerbalspaceprogram.com/topic/224829-112x-periapsis-motors-sepratrons-expanded/)
